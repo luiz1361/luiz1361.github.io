@@ -1,0 +1,180 @@
+- title: Agile
+  docs:
+    - link: /docs/agile/documentation/
+    - link: /docs/agile/notes/
+- title: Application
+  docs:
+    - link: /docs/application/atg/
+    - link: /docs/application/clickatell/
+    - link: /docs/application/cylance/
+    - link: /docs/application/fog/
+    - link: /docs/application/jmeter/
+    - link: /docs/application/moodle/
+    - link: /docs/application/moosh/
+    - link: /docs/application/platformsh/
+    - link: /docs/application/shibboleth/
+- title: Automation
+  docs:
+    - link: /docs/automation/ansible/
+    - link: /docs/automation/docker/
+    - link: /docs/automation/kubernetes/
+    - link: /docs/automation/netmiko/
+    - link: /docs/automation/rundeck/
+    - link: /docs/automation/terraform/
+    - link: /docs/automation/vaut/
+- title: Cisco
+  docs:
+    - link: /docs/cisco/ios/
+- title: Cloud
+  docs:
+    - link: /docs/cloud/aws/
+- title: Database
+  docs:
+    - link: /docs/database/mongodb/
+    - link: /docs/database/mysql/
+    - link: /docs/database/postgresql/
+- title: Dev
+  docs:
+    - link: /docs/dev/api/
+    - link: /docs/dev/bash/
+    - link: /docs/dev/git/
+    - link: /docs/dev/powershell/
+    - link: /docs/dev/python/
+- title: DevNet
+  docs:
+    - link: /docs/devnet/api/
+    - link: /docs/devnet/configmanagement/
+    - link: /docs/devnet/sdn/
+- title: Discovery
+  docs:
+    - link: /docs/discovery/consul/
+    - link: /docs/discovery/consultemplate/
+- title: Firewall
+  docs:
+    - link: /docs/firewall/fortigate/
+- title: IOT
+  docs:
+    - link: /docs/iot/raspberry/
+    - link: /docs/iot/tplink/
+- title: Linux
+  docs:
+    - link: /docs/linux/apache/
+    - link: /docs/linux/apt/
+    - link: /docs/linux/awk/
+    - link: /docs/linux/bacula/
+    - link: /docs/linux/bind/
+    - link: /docs/linux/bz2/
+    - link: /docs/linux/cifs/
+    - link: /docs/linux/clamav/
+    - link: /docs/linux/cron/
+    - link: /docs/linux/dd/
+    - link: /docs/linux/diff/
+    - link: /docs/linux/dmidecode/
+    - link: /docs/linux/drdb/
+    - link: /docs/linux/find/
+    - link: /docs/linux/freedos/
+    - link: /docs/linux/fuser/
+    - link: /docs/linux/gnome/
+    - link: /docs/linux/gpt/
+    - link: /docs/linux/grep/
+    - link: /docs/linux/hostname/
+    - link: /docs/linux/iommu/
+    - link: /docs/linux/iotop/
+    - link: /docs/linux/ip-mtu/
+    - link: /docs/linux/iperf/
+    - link: /docs/linux/iptables/
+    - link: /docs/linux/jq/
+    - link: /docs/linux/kimchi/
+    - link: /docs/linux/logrotate/
+    - link: /docs/linux/logstalgia/
+    - link: /docs/linux/lsbrelease/
+    - link: /docs/linux/lvm/
+    - link: /docs/linux/mail/
+    - link: /docs/linux/mdadm/
+    - link: /docs/linux/mt/
+    - link: /docs/linux/nagdash/
+    - link: /docs/linux/nagios3/
+    - link: /docs/linux/netstat/
+    - link: /docs/linux/nfs/
+    - link: /docs/linux/nmap/
+    - link: /docs/linux/nrpe/
+    - link: /docs/linux/ohmyzsh/
+    - link: /docs/linux/openssl/
+    - link: /docs/linux/p2v/
+    - link: /docs/linux/pam/
+    - link: /docs/linux/parted/
+    - link: /docs/linux/perl/
+    - link: /docs/linux/postfix/
+    - link: /docs/linux/proc/
+    - link: /docs/linux/resize2fs/
+    - link: /docs/linux/rsync/
+    - link: /docs/linux/sed/
+    - link: /docs/linux/smartctl/
+    - link: /docs/linux/speedtest/
+    - link: /docs/linux/sponge/
+    - link: /docs/linux/srvadmin/
+    - link: /docs/linux/ssh/
+    - link: /docs/linux/sshkeygen/
+    - link: /docs/linux/strace/
+    - link: /docs/linux/swap/
+    - link: /docs/linux/sysctl/
+    - link: /docs/linux/syslog/
+    - link: /docs/linux/tail/
+    - link: /docs/linux/tar/
+    - link: /docs/linux/tcpdump/
+    - link: /docs/linux/tftpd/
+    - link: /docs/linux/tmux/
+    - link: /docs/linux/usermod/
+    - link: /docs/linux/vim/
+- title: MacOS
+  docs:
+    - link: /docs/macos/disk/
+    - link: /docs/macos/system/
+- title: Observability
+  docs:
+    - link: /docs/observability/grafana/
+    - link: /docs/observability/graylog/
+    - link: /docs/observability/netdata/
+    - link: /docs/observability/prometheus/
+- title: QA
+  docs:
+    - link: /docs/qa/katalon/
+- title: Simulator
+  docs:
+    - link: /docs/simulator/eveng/
+- title: VCS
+  docs:
+    - link: /docs/vcs/git/
+- title: Virtualisation
+  docs:
+    - link: /docs/virtualization/hyperv/
+    - link: /docs/virtualization/kvm/
+    - link: /docs/virtualization/vmware/
+- title: Windows
+  docs:
+    - link: /docs/windows/attrib/
+    - link: /docs/windows/baculafd/
+    - link: /docs/windows/dedup/
+    - link: /docs/windows/efi/
+    - link: /docs/windows/errcodes/
+    - link: /docs/windows/ext4/
+    - link: /docs/windows/gpo/
+    - link: /docs/windows/netsh/
+    - link: /docs/windows/nsclient/
+    - link: /docs/windows/nxlog/
+    - link: /docs/windows/omsa/
+    - link: /docs/windows/pfx/
+    - link: /docs/windows/powershell/
+    - link: /docs/windows/putty/
+    - link: /docs/windows/rdp/
+    - link: /docs/windows/repadmin/
+    - link: /docs/windows/terminal/
+    - link: /docs/windows/vnc/
+    - link: /docs/windows/vscode/
+    - link: /docs/windows/vss/
+    - link: /docs/windows/wmic/
+    - link: /docs/windows/wmiexporter/
+    - link: /docs/windows/wsl/
+- title: Wireless
+  docs:
+    - link: /docs/wireless/aruba/

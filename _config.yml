@@ -1,0 +1,46 @@
+---
+title: Just Another Engineer
+tagline: Just Another Engineer | Yet Another Documentation Repository
+name: Just Another Engineer
+description:
+lang: en-US
+author:
+  name: Luiz Martins
+url: "https://justanother.engineer/"
+repository: https://github.com/luiz1361/luiz1361.github.io
+timezone: Europe/Dublin
+logo: "/img/logo-2x.png"
+google_analytics_id: UA-109079287-2
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+defaults:
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+future: true
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
+social:
+  name: Luiz Martins
+  links:
+    - https://www.linkedin.com/in/luiz1361
+    - https://github.com/luiz1361
+kramdown:
+  syntax_highlighter_opts:
+    default_lang: plaintext
+sass:
+  style: compressed
+
+strict_front_matter: true
+exclude:
+- ".gitignore"
+- ".jekyll-cache"
+- CNAME
+- icomoon-selection.json
+- readme.md

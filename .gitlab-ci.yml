@@ -1,0 +1,18 @@
+image: ruby:2.6
+
+variables:
+  LC_ALL: C.UTF-8
+
+before_script:
+  - gem install bundler
+  - bundle install
+
+build:
+  stage: build
+  script:
+    - bundle exec jekyll build
+  artifacts:
+    paths:
+      - bundler
+  only:
+    - master
