@@ -1,5 +1,5 @@
 {%- include top.html -%}
-
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <body class="wrap">
 
   {%- include header.html -%}
@@ -20,5 +20,24 @@
   <link href="/css/tooltip.css" rel="stylesheet"/>
   <script src="/js/copy.js"></script>
 
+	<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#171717",
+      "text": "#20fc03"
+    },
+    "button": {
+      "background": "transparent",
+      "text": "#20fc03",
+      "border": "#20fc03"
+    }
+  },
+  "content": {
+    "message": "This website contains cookies, do not eat them!"
+  }
+});
+</script>
 </body>
 </html>
