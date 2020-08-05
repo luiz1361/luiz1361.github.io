@@ -13,7 +13,7 @@ pages:
     - gem install bundler
     - bundle install --path vendor
     - apt-get update && apt-get install moreutils -y
-    - cd _docs/ && ./fixer.sh && cd ..
+    - cd _docs/ && ./fixer.sh && git checkout index.md && cd ..
     - bundle exec jekyll build -d public
   artifacts:
     paths:
