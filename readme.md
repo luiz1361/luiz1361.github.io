@@ -1,4 +1,3 @@
-[![Travis Pipeline](https://travis-ci.org/luiz1361/luiz1361.github.io.svg?branch=master)](https://travis-ci.org/luiz1361/luiz1361.github.io)
 [![Gitlab Pipeline](https://gitlab.com/luiz1361/luiz1361-github-io/badges/master/pipeline.svg)](https://gitlab.com/luiz1361/luiz1361-github-io/)
 
 # Just Another Engineer | Yet another documentation repository
