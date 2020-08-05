@@ -1,12 +1,3 @@
----
-title: NETMIKO
-permalink: /docs/automation/netmiko/
----
----
-title: Netmiko - backup-cisco.py.md
-category: Automation
----
-
 ```
 from pprint import pprint
 from netmiko import ConnectHandler

@@ -1,12 +1,3 @@
----
-title: TERMINAL
-permalink: /docs/windows/terminal/
----
----
-title: Terminal - Compile New Windows
-category: Windows
----
-
 **Early access compiling new Windows Terminal**
 
 ***

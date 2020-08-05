@@ -1,11 +1,3 @@
----
-title: APACHE
-permalink: /docs/linux/apache/
----
----
-title: Apache - Error Shib2 Htpasswd
-category: Linux
----
 **In case of using Apache2 with shib2 module and htpasswd add the following line to the VHOST otherwise the htpasswd authentication won't work:**
 ```
 ShibCompatValidUser On

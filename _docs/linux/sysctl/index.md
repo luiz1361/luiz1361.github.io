@@ -1,12 +1,3 @@
----
-title: SYSCTL
-permalink: /docs/linux/sysctl/
----
----
-title: Sysctl - Disable IPv6
-category: Linux
----
-
 **Edit /etc/sysctl.conf with 1 to disable and 0 to enable:**
 ```
 net.ipv6.conf.all.disable_ipv6 = 1

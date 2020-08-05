@@ -1,12 +1,3 @@
----
-title: DISK
-permalink: /docs/macos/disk/
----
----
-title: Disk - Error Format Drive
-category: Macos
----
-
 **Steps to solve the error ```MediaKit reports not enough space on device for requested operation.``` when trying to format disk via Disk Utility on MacOS:**
 
 **Firstly we need to identify the mount name of our disk (hard drive):**

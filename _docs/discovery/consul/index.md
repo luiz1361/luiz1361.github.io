@@ -1,12 +1,3 @@
----
-title: CONSUL
-permalink: /docs/discovery/consul/
----
----
-title: Consul - Random
-category: Discovery
----
-
 **Ports:**
 ```
 API/UI: 8500

@@ -1,12 +1,3 @@
----
-title: POWERSHELL
-permalink: /docs/windows/powershell/
----
----
-title: Powershell - Allow Script Execution
-category: Windows
----
-
 **The command below will allow script execution in unrestricted mode:**
 ```
 Set-ExecutionPolicy Unrestricted

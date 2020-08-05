@@ -1,12 +1,3 @@
----
-title: IP-MTU
-permalink: /docs/linux/ip-mtu/
----
----
-title: IP - Flush IP 
-category: Linux
----
-
 ```
 ip addr flush dev enp101s0f0
 ```

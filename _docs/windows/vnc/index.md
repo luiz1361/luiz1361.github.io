@@ -1,12 +1,3 @@
----
-title: VNC
-permalink: /docs/windows/vnc/
----
----
-title: VNC - Change Password PSEXEC
-category: Windows
----
-
 **Query current password:**
 ```
 PsExec.exe \\machine REG QUERY HKLM\Software\TightVNC\Server  /v Password

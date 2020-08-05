@@ -1,12 +1,3 @@
----
-title: VIM
-permalink: /docs/linux/vim/
----
----
-title: Vim - Random
-category: Linux
----
-
 **Search and replace asking for confirmation:**
 ```
 %s/foo/bar/gc

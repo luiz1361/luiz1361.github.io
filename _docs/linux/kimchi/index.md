@@ -1,12 +1,3 @@
----
-title: KIMCHI
-permalink: /docs/linux/kimchi/
----
----
-title: Kimchi - Install
-category: Linux
----
-
 ```
 sudo apt-get install nginx
 wget https://github.com/kimchi-project/kimchi/releases/download/2.5.0/wok-2.5.0-0.noarch.deb

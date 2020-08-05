@@ -1,12 +1,3 @@
----
-title: TAR
-permalink: /docs/linux/tar/
----
----
-title: TAR - SSH Transfer
-category: Linux
----
-
 **Using tar and ssh to transfer data from machine src /data to local dir /databkp:**
 ```
 ssh user@src "tar czpf - /data" | tar xzpf - -C /databkp

@@ -1,11 +1,3 @@
----
-title: APT
-permalink: /docs/linux/apt/
----
----
-title: APT - APT Key HTTP
-category: Linux
----
 ```
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv C0A52C50
 ```

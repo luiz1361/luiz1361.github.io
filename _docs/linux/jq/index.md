@@ -1,12 +1,3 @@
----
-title: JQ
-permalink: /docs/linux/jq/
----
----
-title: JQ - Random
-category: Linux
----
-
 **Output between quotes:**
 ```
 curl -s https://api.chucknorris.io/jokes/random | jq '.value + .icon_url’

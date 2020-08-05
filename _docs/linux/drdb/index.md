@@ -1,12 +1,3 @@
----
-title: DRDB
-permalink: /docs/linux/drdb/
----
----
-title: DRBD - Check Status
-category: Linux
----
-
 **Run ```sudo cat /proc/drbd``` to retrieve the DRBD service status**
 
 **How unhealthy looks like:**

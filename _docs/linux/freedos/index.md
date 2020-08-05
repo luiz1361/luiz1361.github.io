@@ -1,12 +1,3 @@
----
-title: FREEDOS
-permalink: /docs/linux/freedos/
----
----
-title: FreeDOS - Upgrading Dell Firmware
-category: Linux
----
-
 **Download Link: http://pingtool.org/downloads/fd11src_live.iso**
 
 I was struggling with BIOS upgrades for our new Dell servers, as Dell didn’t provide bootable ISO image for BIOS upgrades.

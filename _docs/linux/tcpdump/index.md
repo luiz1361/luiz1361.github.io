@@ -1,12 +1,3 @@
----
-title: TCPDUMP
-permalink: /docs/linux/tcpdump/
----
----
-title: TCPDUMP - Random
-category: Linux
----
-
 ```
 tcpdump -i br0 -n not port 22  -w - | ssh user@192.168.1.1 "cat > /home/user/tcpdump.pcap
 ```

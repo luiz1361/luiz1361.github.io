@@ -1,12 +1,3 @@
----
-title: PUTTY
-permalink: /docs/windows/putty/
----
----
-title: Putty - Backspace Issue
-category: Windows
----
-
 **In some cases the backspace key won't work on Putty, generally over console connections. In order to fix it go to Terminal -> Keyboard -> The backspace key Control-H**
 ---
 title: Putty - Oh-my-zsh

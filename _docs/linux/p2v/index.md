@@ -1,12 +1,3 @@
----
-title: P2V
-permalink: /docs/linux/p2v/
----
----
-title: P2V - Manual
-category: Linux
----
-
 **Boot from a live media ie. System Rescue 6.0.3. That should contain most if not all utilities required**
 
 **Scan for all volume groups:**

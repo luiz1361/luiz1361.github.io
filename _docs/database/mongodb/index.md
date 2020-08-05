@@ -1,12 +1,3 @@
----
-title: MONGODB
-permalink: /docs/database/mongodb/
----
----
-title: MongoDB - Dump Restore
-category: Database
----
-
 **Dump DB from mLAB:**
 ```
 mongodump -h x.mlab.com:15799 -u mongo-admin -p root --authenticationDatabase admin -d db -o /x/dumps

@@ -1,12 +1,3 @@
----
-title: KVM
-permalink: /docs/virtualization/kvm/
----
----
-title: KVM - Migrate VM Other host
-category: Virtualization
----
-
 **On source host:**
 ```
 virsh shutdown vm

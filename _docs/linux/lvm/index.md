@@ -1,12 +1,3 @@
----
-title: LVM
-permalink: /docs/linux/lvm/
----
----
-title: LVM - Expand LV
-category: Linux
----
-
 **In this example we will work through expanding logical volume /var/centos/var from 5GB to 10GB. We currently have this logical volume mounted to /mnt.**
 ```
 vgdisplay

@@ -1,12 +1,3 @@
----
-title: SPONGE
-permalink: /docs/linux/sponge/
----
----
-title: Sponge - Random
-category: Linux
----
-
 **To read and write to same file using pipe:**
 ```
 apt-get install moreutils

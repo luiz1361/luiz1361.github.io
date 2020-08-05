@@ -1,12 +1,3 @@
----
-title: VMWARE
-permalink: /docs/virtualization/vmware/
----
----
-title: VMWARE - ESXI5 SNMP
-category: Virtualization
----
-
 **Quick hack to enable SNMP monitoring as it is not supported by default on ESXi 5:**  
 
 ***

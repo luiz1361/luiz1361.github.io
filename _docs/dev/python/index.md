@@ -1,12 +1,3 @@
----
-title: PYTHON
-permalink: /docs/dev/python/
----
----
-title: Python - Pip
-category: Dev
----
-
 **To upgrade an existing package, use this:**
 ```
 pip install --upgrade PackageName

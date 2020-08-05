@@ -1,12 +1,3 @@
----
-title: BACULAFD
-permalink: /docs/windows/baculafd/
----
----
-title: Baculafd
-permalink: /docs/windows/baculafd/
----
-
 # Install
 
 1.First of all download http://www.silentinstall.org/ to create the MSI

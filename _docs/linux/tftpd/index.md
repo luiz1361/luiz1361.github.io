@@ -1,12 +1,3 @@
----
-title: TFTPD
-permalink: /docs/linux/tftpd/
----
----
-title: TFTPD - Install
-category: Linux
----
-
 **Installing TFTPD-HPA**
 ```
 apt-get install tftpd-hpa

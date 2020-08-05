@@ -1,12 +1,3 @@
----
-title: NXLOG
-permalink: /docs/windows/nxlog/
----
----
-title: NXLOG
-permalink: /docs/windows/nxlog/
----
-
 #  nxlog.conf
 
 

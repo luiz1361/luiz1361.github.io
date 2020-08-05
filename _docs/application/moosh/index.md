@@ -1,12 +1,3 @@
----
-title: MOOSH
-permalink: /docs/application/moosh/
----
----
-title: MOOSH
-permalink: /docs/application/moosh/
----
-
 # Bulk Backup Restore Courses
 
 **Given a file with content as below per line which can be created based on ```sudo -u www-data moosh course-list | awk -F "," '{ print $1 "," $3}'```:**

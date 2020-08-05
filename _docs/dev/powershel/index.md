@@ -1,12 +1,3 @@
----
-title: POWERSHEL
-permalink: /docs/dev/powershel/
----
----
-title: Powershell - ad_login_count_export.ps1
-category: Dev
----
-
 ```
 ﻿$OU = "OU=x,OU=x,OU=x,DC=x,DC=x"
 # Hash table of user logon counts.

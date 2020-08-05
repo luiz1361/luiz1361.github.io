@@ -1,12 +1,3 @@
----
-title: GPO
-permalink: /docs/windows/gpo/
----
----
-title: GPO
-permalink: /docs/windows/gpo/
----
-
 # GPRESULT Computer
 
 **As admin run the following command to generate a report including all computer policies applied:**

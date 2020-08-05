@@ -1,12 +1,3 @@
----
-title: ARUBA
-permalink: /docs/wireless/aruba/
----
----
-title: Aruba
-permalink: /docs/wireless/
----
-
 # Random
 
 **Loading an alternative firmware image during boot via console port:**  

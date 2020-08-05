@@ -1,12 +1,3 @@
----
-title: GIT
-permalink: /docs/dev/git/
----
----
-title: Git - git-autopull.sh
-category: Dev
----
-
 ```
 #!/bin/bash
 

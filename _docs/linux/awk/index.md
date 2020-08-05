@@ -1,11 +1,3 @@
----
-title: AWK
-permalink: /docs/linux/awk/
----
----
-title: AWK - Random
-category: Linux
----
 **Print only the last element:**
 ```
 awk '{print $NF}' File1

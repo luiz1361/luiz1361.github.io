@@ -1,12 +1,3 @@
----
-title: BZ2
-permalink: /docs/linux/bz2/
----
----
-title: BZ2 - Random
-category: Linux
----
-
 **Compress a file:**
 ```
 bzip2 -z filename

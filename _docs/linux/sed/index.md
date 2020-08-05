@@ -1,12 +1,3 @@
----
-title: SED
-permalink: /docs/linux/sed/
----
----
-title: Sed - Random
-category: Linux
----
-
 **Search and print text starting from Word A until Word D on file:**
 ```
 sed -n -e '/Word A/,/Word D/ p' file

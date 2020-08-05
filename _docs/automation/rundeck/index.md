@@ -1,12 +1,3 @@
----
-title: RUNDECK
-permalink: /docs/automation/rundeck/
----
----
-title: Rundeck - Dev.aclpolicy.md
-category: Automation
----
-
 ```
 by:
   group: dev

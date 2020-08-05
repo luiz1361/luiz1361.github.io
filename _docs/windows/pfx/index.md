@@ -1,12 +1,3 @@
----
-title: PFX
-permalink: /docs/windows/pfx/
----
----
-title: PFX 
-permalink: /docs/windows/pfx/
----
-
 # Merge Public Private
 
 ***

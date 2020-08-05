@@ -1,12 +1,3 @@
----
-title: NETDATA
-permalink: /docs/observability/netdata/
----
----
-title: Netdata - Bind Named
-category: Observability
----
-
 ```
 sudo cat > /etc/netdata/node.d/named.conf << EOL
 {

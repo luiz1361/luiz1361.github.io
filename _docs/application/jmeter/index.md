@@ -1,12 +1,3 @@
----
-title: JMETER
-permalink: /docs/application/jmeter/
----
----
-title: JMETER
-permalink: /docs/application/jmeter/
----
-
 # ssl_issue
 
 **Try starting JMeter as:**

@@ -1,12 +1,3 @@
----
-title: CYLANCE
-permalink: /docs/application/cylance/
----
----
-title: CYLANCE
-permalink: /docs/application/cylance/
----
-
 # gui_advanced
 
 ```powershell

@@ -1,12 +1,3 @@
----
-title: NMAP
-permalink: /docs/linux/nmap/
----
----
-title: NMAP - Fast Discovery
-category: Linux
----
-
 ```
 nmap -sP -T5 --min-parallelism 100 --max-parallelism 256 172.16.0.0/16 -oG - | awk '/Up$/{print $2 $3}' | nl
 ```

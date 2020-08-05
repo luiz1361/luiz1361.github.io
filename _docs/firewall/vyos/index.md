@@ -1,12 +1,3 @@
----
-title: VYOS
-permalink: /docs/firewall/vyos/
----
----
-title: VyOS - Install
-category: Firewall
----
-
 1. Download vyos-1.1.7-amd64.iso
 1. Boot from ISO and run #install system
 1. Copy from production /config/config.boot, /etc/openvpn/easy-rsa and /etc/bacula/bacula-fd.conf placing them on the same location

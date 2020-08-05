@@ -1,12 +1,3 @@
----
-title: EVENG
-permalink: /docs/simulator/eveng/
----
----
-title: Eveng - Hyperv
-category: Simulator
----
-
 * Download ISO and install on Hyper-V
 * After installation enable nested virtualisation: Set-VMProcessor -VMName "EVE-NG" -ExposeVirtualizationExtensions $True
 * Add a second NIC for Cloud1

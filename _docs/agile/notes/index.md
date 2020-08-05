@@ -1,12 +1,3 @@
----
-title: NOTES
-permalink: /docs/agile/notes/
----
----
-title: NOTES
-permalink: /docs/agile/notes/
----
-
 ## Draft
 
 * Deliver work sooner than later, even if rework is required. Focus on delivering results for the business.

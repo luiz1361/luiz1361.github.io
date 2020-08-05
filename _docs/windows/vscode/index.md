@@ -1,12 +1,3 @@
----
-title: VSCODE
-permalink: /docs/windows/vscode/
----
----
-title: VSCODE - SSH FS Sudo
-category: Windows
----
-
 **Ctrl+Shift+P and edit "Preferences: Open Settings(JSON)" or "settings.json" changing:**
 ```
 "sftpCommand": "sudo /usr/lib/openssh/sftp-server"

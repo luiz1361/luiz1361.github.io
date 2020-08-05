@@ -1,12 +1,3 @@
----
-title: PARTED
-permalink: /docs/linux/parted/
----
----
-title: Parted - 2TB
-category: Linux
----
-
 **To create partitions larger than 2TB GPT needs to be used instead of MBR:**
 ```
 #parted /dev/sdb

@@ -1,12 +1,3 @@
----
-title: EXT4
-permalink: /docs/windows/ext4/
----
----
-title: EXT4
-permalink: /docs/windows/ext4/
----
-
 # EXT4 on Windows
 
 1. Install and open ext2 volume manager

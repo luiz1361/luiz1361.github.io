@@ -1,12 +1,3 @@
----
-title: GPT
-permalink: /docs/linux/gpt/
----
----
-title: GPT - Corrupted Partition
-category: Linux
----
-
 **Issue might occur changing VHD size:**
 ```
 sudo gdisk /dev/sda

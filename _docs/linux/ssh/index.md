@@ -1,12 +1,3 @@
----
-title: SSH
-permalink: /docs/linux/ssh/
----
----
-title: SSH - Random
-category: Linux
----
-
 **Open port 9999 on localhost to represent a connection to 10.0.0.4:22 from 172.16.0.5**
 ```
 ssh -L 9999:10.0.0.4:22 luizm@172.16.0.5

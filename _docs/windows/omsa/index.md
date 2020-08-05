@@ -1,12 +1,3 @@
----
-title: OMSA
-permalink: /docs/windows/omsa/
----
----
-title: OMSA 
-permalink: /docs/windows/omsa/
----
-
 # Warning Non Cert Disks
 
 **Get rid of warnings for non Dell certified disks. This procedure works for Dell OMSA >= 8.5**

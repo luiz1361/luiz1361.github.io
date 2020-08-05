@@ -1,12 +1,3 @@
----
-title: ANSIBLE
-permalink: /docs/automation/ansible/
----
----
-title: Ansible - Add Host Ubuntu
-category: Automation
----
-
 **Install pre-requisites:**
 ```
 apt-get install ssh python

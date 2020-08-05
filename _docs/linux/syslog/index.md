@@ -1,12 +1,3 @@
----
-title: SYSLOG
-permalink: /docs/linux/syslog/
----
----
-title: Syslog - Simulate Message
-category: Linux
----
-
 **Run the command below to send a UDP message to a syslog server:**
 ```
 nc -w0 -u 192.168.0.1 514 <<< "testing"

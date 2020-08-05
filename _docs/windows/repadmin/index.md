@@ -1,12 +1,3 @@
----
-title: REPADMIN
-permalink: /docs/windows/repadmin/
----
----
-title: Repadmin - Check AD Replication
-category: Windows
----
-
 ```
 repadmin /showrepl
 dcdiag /test:replications

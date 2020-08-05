@@ -1,12 +1,3 @@
----
-title: SHIBBOLETH
-permalink: /docs/application/shibboleth/
----
----
-title: SHIBBOLETH
-permalink: /docs/application/shibboleth/
----
-
 # apache_mod_shib2_attribute_map.xml
 
 ```

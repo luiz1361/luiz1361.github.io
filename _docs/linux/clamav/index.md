@@ -1,12 +1,3 @@
----
-title: CLAMAV
-permalink: /docs/linux/clamav/
----
----
-title: Clamav - Detect Clean Malware
-category: Linux
----
-
 **Check default stack size:**
 ```
 # ulimit -s

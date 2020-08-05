@@ -1,12 +1,3 @@
----
-title: MAIL
-permalink: /docs/linux/mail/
----
----
-title: Mail - Sendmail Different Sender
-category: Linux
----
-
 ````
 echo "Test" | mail -a "From: Someone <someone@example.com>" \
                    -a "Subject: This as a test" \

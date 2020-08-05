@@ -1,12 +1,3 @@
----
-title: DEDUP
-permalink: /docs/windows/dedup/
----
----
-title: DEDUP
-permalink: /docs/windows/dedup/
----
-
 # Disabling w2k12r2
 
 >Disabling Data De-duplication doesn’t “undupe” the data already “duped”.

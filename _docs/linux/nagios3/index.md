@@ -1,12 +1,3 @@
----
-title: NAGIOS3
-permalink: /docs/linux/nagios3/
----
----
-title: Nagios3 - Nagdash Install
-category: Linux
----
-
 ##Required on all Nagios servers
 
 **Installing the required packages:**

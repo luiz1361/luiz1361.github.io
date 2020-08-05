@@ -1,12 +1,3 @@
----
-title: VAULT
-permalink: /docs/automation/vault/
----
----
-title: Vault - Random
-category: Automation
----
-
 **Required ports:**
 ```
 API: 8200, Cluster: 8201

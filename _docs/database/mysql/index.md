@@ -1,12 +1,3 @@
----
-title: MYSQL
-permalink: /docs/database/mysql/
----
----
-title: MySQL - Dump Restore
-category: Database
----
-
 **Copy one DB to another DB with another name same instance:**
 ```bash
 mysqldump db | mysql new_db

@@ -1,12 +1,3 @@
----
-title: MDADM
-permalink: /docs/linux/mdadm/
----
----
-title: MDADM - After OS Install
-category: Linux
----
-
 **If on live cd, if cat /proc/mdstat doesn’t work:**
 ```
 sudo apt-get install mdadm

@@ -1,12 +1,3 @@
----
-title: RASPBERRY
-permalink: /docs/iot/raspberry/
----
----
-title: Raspberry - Disable Blank Screen
-category: IOT
----
-
 ```
 sudo nano /etc/lightdm/lightdm.conf
 ```

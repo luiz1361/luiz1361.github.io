@@ -1,12 +1,3 @@
----
-title: SRVADMIN
-permalink: /docs/linux/srvadmin/
----
----
-title: SRVADMIN - Install
-category: Linux
----
-
 **Installation steps for Ubuntu 16:**
 ```
 gpg --keyserver hkp://pool.sks-keyservers.net:443 --recv-key 1285491434D8786F

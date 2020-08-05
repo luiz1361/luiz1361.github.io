@@ -1,11 +1,3 @@
----
-title: BACULA
-permalink: /docs/linux/bacula/
----
----
-title: Bacula - bat.conf
-category: Linux
----
 #
 # Bacula Administration Tool (bat) configuration file
 #

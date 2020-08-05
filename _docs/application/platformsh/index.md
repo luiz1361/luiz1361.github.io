@@ -1,12 +1,3 @@
----
-title: PLATFORMSH
-permalink: /docs/application/platformsh/
----
----
-title: PLATFORMSH
-permalink: /docs/application/platformsh/
----
-
 # Disk Cleanup
 
 **Search for files older than 200 days:**

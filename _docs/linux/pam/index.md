@@ -1,12 +1,3 @@
----
-title: PAM
-permalink: /docs/linux/pam/
----
----
-title: PAM - 2FA
-category: Linux
----
-
 **Install the Google authenticator PAM module (as root user):**
 ```
 apt-get install libpam-google-authenticator

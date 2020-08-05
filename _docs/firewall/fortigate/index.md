@@ -1,12 +1,3 @@
----
-title: FORTIGATE
-permalink: /docs/firewall/fortigate/
----
----
-title: Fortigate - ARP
-category: Firewall
----
-
 **List existing ARP entries:**
 ```
 get system arp

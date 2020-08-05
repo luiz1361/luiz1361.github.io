@@ -1,12 +1,3 @@
----
-title: INDEX.MD
-permalink: /docs/vcs/index.md/
----
----
-title: Git - Branch
-category: VCS
----
-
 **Create your branch locally, new branch followed by checkout:**
 ```
 git checkout -b <branch-name>

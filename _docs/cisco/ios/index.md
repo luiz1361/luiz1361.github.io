@@ -1,12 +1,3 @@
----
-title: IOS
-permalink: /docs/cisco/ios/
----
----
-title: IOS - Brief
-category: Cisco
----
-
 **General:**
 * IOS: Traditional, shared memory space, do not support symmetric multiprocessing.
 * IOS-XE: Linux Kernel, IOS like, for ISR, supports symmetric multiprocessing, separate memory space.

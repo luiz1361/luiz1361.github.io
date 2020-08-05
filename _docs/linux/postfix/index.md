@@ -1,12 +1,3 @@
----
-title: POSTFIX
-permalink: /docs/linux/postfix/
----
----
-title: Postfix - Manage Queue
-category: Linux
----
-
 **Clear queue:**
 ```
 postsuper -d ALL

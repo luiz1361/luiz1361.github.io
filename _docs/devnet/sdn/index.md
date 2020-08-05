@@ -1,12 +1,3 @@
----
-title: SDN
-permalink: /docs/devnet/sdn/
----
----
-title: SDN - Brief
-category: DevNet
----
-
 **Concepts:**
 * Enforce state and avoid snowflake infrastructure.
 * Underlay: Traffic forwarding decisions performed at next hop basis with traditional L2/L3.

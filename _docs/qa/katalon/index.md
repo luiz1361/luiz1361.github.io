@@ -1,12 +1,3 @@
----
-title: KATALON
-permalink: /docs/qa/katalon/
----
----
-title: Katalon - Headless Ubuntu
-category: Test
----
-
 **Install required packages:**
 ```
 sudo apt-get install xvfb firefox openjdk-8-jre

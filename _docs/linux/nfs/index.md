@@ -1,12 +1,3 @@
----
-title: NFS
-permalink: /docs/linux/nfs/
----
----
-title: NFS - Random
-category: Linux
----
-
 ##Server
 
 **On Ubuntu/Debian systems, the steps are generally:**

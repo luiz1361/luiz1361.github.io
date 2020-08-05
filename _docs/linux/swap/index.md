@@ -1,12 +1,3 @@
----
-title: SWAP
-permalink: /docs/linux/swap/
----
----
-title: Swap - Random
-category: Linux
----
-
 **To create a swap partition after installation, create an empty partition that should have no holes. You can then format this partition with:**
 ```
 sudo mkswap /dev/sdX

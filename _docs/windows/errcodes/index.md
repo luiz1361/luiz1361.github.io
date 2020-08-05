@@ -1,12 +1,3 @@
----
-title: ERRCODES
-permalink: /docs/windows/errcodes/
----
----
-title: ERRCODES
-permalink: /docs/windows/errcodes/
----
-
 # 0x800f0954
 
 **Try this first, CMD as admin with ISO mounted on D:**

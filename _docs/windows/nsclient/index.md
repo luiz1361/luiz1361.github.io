@@ -1,12 +1,3 @@
----
-title: NSCLIENT
-permalink: /docs/windows/nsclient/
----
----
-title: NSCLIENT
-permalink: /docs/windows/nsclient/
----
-
 # check_dhcp_scope.vbs
 
 # ----------------------------------------------------------------------

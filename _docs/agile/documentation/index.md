@@ -1,8 +1,3 @@
----
-title: DOCUMENTATION
-permalink: /docs/agile/documentation/
----
-
 # Deployer API Outage Postmortem
 
 ## Date

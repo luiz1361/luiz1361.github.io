@@ -1,12 +1,3 @@
----
-title: API
-permalink: /docs/dev/api/
----
----
-title: API - atg.sh
-category: Dev
----
-
 ```
 #!/bin/bash
 

@@ -1,12 +1,3 @@
----
-title: OHMYZSH
-permalink: /docs/linux/ohmyzsh/
----
----
-title: Ohmyzsh - Ubuntu
-category: Linux
----
-
 **Update the packages:**
 ```
 sudo apt-get update && sudo apt upgrade

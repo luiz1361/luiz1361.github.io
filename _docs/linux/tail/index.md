@@ -1,12 +1,3 @@
----
-title: TAIL
-permalink: /docs/linux/tail/
----
----
-title: Tail - Multifile
-category: Linux
----
-
 **Tail multiple files at once:**
 ```
 tail -fq *

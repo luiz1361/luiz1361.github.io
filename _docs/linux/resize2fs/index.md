@@ -1,12 +1,3 @@
----
-title: RESIZE2FS
-permalink: /docs/linux/resize2fs/
----
----
-title: Resize2fs - Ext4 16tb
-category: Linux
----
-
 ```
 sudo apt update
 sudo apt install git

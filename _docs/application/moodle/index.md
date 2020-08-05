@@ -1,12 +1,3 @@
----
-title: MOODLE
-permalink: /docs/application/moodle/
----
----
-title: MOODLE
-permalink: /docs/application/moodle/
----
-
 # disable_mailing_for_non_prod
 
 **Edit config.php on Moodle's root directory:**

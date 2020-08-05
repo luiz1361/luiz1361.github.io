@@ -1,12 +1,3 @@
----
-title: CLICKATELL
-permalink: /docs/application/clickatell/
----
----
-title: CLICKATELL
-permalink: /docs/application/clickatell/
----
-
 # Send SMS
 
 ```bash

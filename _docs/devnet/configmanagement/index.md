@@ -1,12 +1,3 @@
----
-title: CONFIGMANAGEMENT
-permalink: /docs/devnet/configmanagement/
----
----
-title: Configmanagement - Tooling
-category: DevNet
----
-
 * PyATS
 * Netmiko
 * NAPALM: Diff and/or teplace config on device, can use Netmiko as driver

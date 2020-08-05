@@ -1,12 +1,3 @@
----
-title: ATTRIB
-permalink: /docs/windows/attrib/
----
----
-title: ATTRIB 
-permalink: /docs/windows/attrib/
----
-
 # Folder Unhide
 
 ```

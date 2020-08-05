@@ -1,11 +1,3 @@
----
-title: EFI
-permalink: /docs/windows/efi/
----
----
-title: EFI
-permalink: /docs/windows/efi/
----
 # GPT EFI Recover
 
 **Recover EFI partition in case of accidental deletion:**

@@ -1,12 +1,3 @@
----
-title: SPEEDTEST
-permalink: /docs/linux/speedtest/
----
----
-title: Speedtest - Python
-category: Linux
----
-
 **Runs a Python script to measure bandwidth via Shell:**
 ```
 curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -

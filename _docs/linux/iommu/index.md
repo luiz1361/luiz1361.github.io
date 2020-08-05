@@ -1,12 +1,3 @@
----
-title: IOMMU
-permalink: /docs/linux/iommu/
----
----
-title: IOMMU - Enabling
-category: Linux
----
-
 **You can do this by setting the following in /etc/default/grub:**
 ```
 GRUB_CMDLINE_LINUX_DEFAULT="intel_iommu=on"

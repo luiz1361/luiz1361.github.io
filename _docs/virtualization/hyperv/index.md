@@ -1,12 +1,3 @@
----
-title: HYPERV
-permalink: /docs/virtualization/hyperv/
----
----
-title: Hyperv - Defrag CSV 
-category: Virtualization
----
-
 **The steps below were successfully executed as an experiment once. This needs more careful testing and this documentation needs to be updated:**
 ```
 Get-ClusterSharedVolume

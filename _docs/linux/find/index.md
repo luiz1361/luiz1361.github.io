@@ -1,12 +1,3 @@
----
-title: FIND
-permalink: /docs/linux/find/
----
----
-title: Find - Items Older Than
-category: Linux
----
-
 **Option 1 - (Slower) To search files older than 10 days with OR condition and print sum of file size in MB:**
 ```
 find /data/msuser/msinstance/media/resources/ -mtime +10 -type f \( -name "*original.mp4" -o -name "*original.flv" -o -name "*original.mkv" \) -print0 | du --files0-from=- -hc | tail -n1

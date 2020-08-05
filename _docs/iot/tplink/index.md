@@ -1,11 +1,3 @@
----
-title: TPLINK
-permalink: /docs/iot/tplink/
----
----
-title: TPLINK - HS100
-category: IOT
----
 First of all you will need to figure out the device's IP and ideally reserve it on the DHCP.
 
 **Details to get a HS100 turning off and on via Python3:**

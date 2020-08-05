@@ -1,12 +1,3 @@
----
-title: WSL
-permalink: /docs/windows/wsl/
----
----
-title: WSL - Resolv
-category: Windows
----
-
 **Customizing /etc/resolv.conf:**
 ```
 rm /etc/resolv.conf

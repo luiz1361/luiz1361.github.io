@@ -1,12 +1,3 @@
----
-title: DOCKER
-permalink: /docs/automation/docker/
----
----
-title: Docker - Build Image
-category: Automation
----
-
 **Login to DockerHub:**
 ```
 docker login

@@ -1,12 +1,3 @@
----
-title: CONSULTEMPLATE
-permalink: /docs/discovery/consultemplate/
----
----
-title: Consultemplate - Random
-category: Discovery
----
-
 **Example of consul template using Consul:**
 ```
 ./consul-template -template "find_address.tpl:hashicorp_address.txt"

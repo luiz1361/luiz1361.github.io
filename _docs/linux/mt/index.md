@@ -1,12 +1,3 @@
----
-title: MT
-permalink: /docs/linux/mt/
----
----
-title: MT - LTO
-category: Linux
----
-
 mt -f /dev/nst0 <command>:
 >status: Show the status of the drive.  
 >rewind: Rewind the tape.  

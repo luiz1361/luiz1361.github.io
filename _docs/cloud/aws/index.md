@@ -1,12 +1,3 @@
----
-title: AWS
-permalink: /docs/cloud/aws/
----
----
-title: AWS - KMS
-category: Cloud
----
-
 **Encrypt:**
 
 ```

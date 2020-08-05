@@ -1,12 +1,3 @@
----
-title: DIFF
-permalink: /docs/linux/diff/
----
----
-title: Diff - Folders Recursively
-category: Linux
----
-
 **Diff two separate folders recursively:**
 ```
 diff --brief -Nr dir1/ dir2/

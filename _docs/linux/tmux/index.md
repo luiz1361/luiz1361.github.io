@@ -1,12 +1,3 @@
----
-title: TMUX
-permalink: /docs/linux/tmux/
----
----
-title: TMUX - TMUX vs Screen
-category: Linux
----
-
 **Start:**
 ```
 tmux

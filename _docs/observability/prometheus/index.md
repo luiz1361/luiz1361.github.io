@@ -1,12 +1,3 @@
----
-title: PROMETHEUS
-permalink: /docs/observability/prometheus/
----
----
-title: Prometheus - Docker-compose.yml
-category: Observability
----
-
 version: '3'
 
 volumes:

@@ -1,12 +1,3 @@
----
-title: POSTGRESQL
-permalink: /docs/database/postgresql/
----
----
-title: PostgreSQL - Dump Restore
-category: Database
----
-
 **Dump database:**
 ```
 pg_dump db > dump.sql

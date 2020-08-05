@@ -1,12 +1,3 @@
----
-title: LOGROTATE
-permalink: /docs/linux/logrotate/
----
----
-title: Logrotate - Adding Custom Log
-category: Linux
----
-
 **Command to force logrotate to run:**
 ```
 logrotate -v -f /etc/logrotate.d/someapp.conf

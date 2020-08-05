@@ -1,12 +1,3 @@
----
-title: IPTABLES
-permalink: /docs/linux/iptables/
----
----
-title: IPTABLES - Random
-category: Linux
----
-
 **To block specific port number such tcp port # 5050, enter:**
 ```
 iptables -A OUTPUT -p tcp --dport 5050 -j DROP

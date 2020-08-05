@@ -1,12 +1,3 @@
----
-title: NETSH
-permalink: /docs/windows/netsh/
----
----
-title: NETSH
-permalink: /docs/windows/netsh/
----
-
 # IPv6 Disable
 
 

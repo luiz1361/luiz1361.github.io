@@ -1,12 +1,3 @@
----
-title: RSYNC
-permalink: /docs/linux/rsync/
----
----
-title: Rsync - Random
-category: Linux
----
-
 **Transfer only new files from source to destination using password file**
 ```
 0 1 * * * root rsync --ignore-existing -arv -e "sshpass -f '/x/secret' ssh -o StrictHostKeyChecking=no" --progress x@x.x.x:/x/* /x/x/x > /dev/null 2>&1

@@ -1,12 +1,3 @@
----
-title: BASH
-permalink: /docs/dev/bash/
----
----
-title: Bash - find_mac_address.sh
-category: Dev
----
-
 ```
 #!/bin/bash
 
