@@ -1,4 +1,5 @@
 _site/
+.env
 .jekyll-cache
 .idea/
 *.swp
