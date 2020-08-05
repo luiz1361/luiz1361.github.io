@@ -3,13 +3,15 @@ image: ruby:2.6
 variables:
   LC_ALL: C.UTF-8
 
-before_script:
-  - gem install bundler
-  - bundle install
+cache:
+  paths:
+  - vendor/
 
 pages:
   stage: deploy
   script:
+    - gem install bundler
+    - bundle install --path vendor
     - bundle exec jekyll build -d public
   artifacts:
     paths:
