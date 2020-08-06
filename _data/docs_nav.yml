@@ -1,8 +1,8 @@
-- title: Agile
+- title: agile
   docs:
     - link: /docs/agile/documentation/
     - link: /docs/agile/notes/
-- title: Application
+- title: application
   docs:
     - link: /docs/application/atg/
     - link: /docs/application/clickatell/
@@ -13,7 +13,7 @@
     - link: /docs/application/moosh/
     - link: /docs/application/platformsh/
     - link: /docs/application/shibboleth/
-- title: Automation
+- title: automation
   docs:
     - link: /docs/automation/ansible/
     - link: /docs/automation/docker/
@@ -21,42 +21,49 @@
     - link: /docs/automation/netmiko/
     - link: /docs/automation/rundeck/
     - link: /docs/automation/terraform/
-    - link: /docs/automation/vaut/
-- title: Cisco
+    - link: /docs/automation/vault/
+- title: cisco
   docs:
     - link: /docs/cisco/ios/
-- title: Cloud
+- title: cloud
   docs:
     - link: /docs/cloud/aws/
-- title: Database
+- title: database
   docs:
     - link: /docs/database/mongodb/
     - link: /docs/database/mysql/
     - link: /docs/database/postgresql/
-- title: Dev
+- title: dev
   docs:
     - link: /docs/dev/api/
     - link: /docs/dev/bash/
     - link: /docs/dev/git/
-    - link: /docs/dev/powershell/
+    - link: /docs/dev/powershel/
     - link: /docs/dev/python/
-- title: DevNet
+- title: devnet
   docs:
     - link: /docs/devnet/api/
     - link: /docs/devnet/configmanagement/
     - link: /docs/devnet/sdn/
-- title: Discovery
+- title: discovery
   docs:
     - link: /docs/discovery/consul/
     - link: /docs/discovery/consultemplate/
-- title: Firewall
+- title: firewall
   docs:
     - link: /docs/firewall/fortigate/
-- title: IOT
+    - link: /docs/firewall/vyos/
+- title: fixer.sh
+  docs:
+    - link: /docs/fixer.sh/../_docs/fixer.sh/
+- title: index.md
+  docs:
+    - link: /docs/index.md/../_docs/index.md/
+- title: iot
   docs:
     - link: /docs/iot/raspberry/
     - link: /docs/iot/tplink/
-- title: Linux
+- title: linux
   docs:
     - link: /docs/linux/apache/
     - link: /docs/linux/apt/
@@ -126,31 +133,30 @@
     - link: /docs/linux/tmux/
     - link: /docs/linux/usermod/
     - link: /docs/linux/vim/
-- title: MacOS
+- title: macos
   docs:
     - link: /docs/macos/disk/
     - link: /docs/macos/system/
-- title: Observability
+- title: observability
   docs:
-    - link: /docs/observability/grafana/
     - link: /docs/observability/graylog/
     - link: /docs/observability/netdata/
     - link: /docs/observability/prometheus/
-- title: QA
+- title: qa
   docs:
     - link: /docs/qa/katalon/
-- title: Simulator
+- title: simulator
   docs:
     - link: /docs/simulator/eveng/
-- title: VCS
+- title: vcs
   docs:
     - link: /docs/vcs/git/
-- title: Virtualisation
+- title: virtualization
   docs:
     - link: /docs/virtualization/hyperv/
     - link: /docs/virtualization/kvm/
     - link: /docs/virtualization/vmware/
-- title: Windows
+- title: windows
   docs:
     - link: /docs/windows/attrib/
     - link: /docs/windows/baculafd/
@@ -175,6 +181,6 @@
     - link: /docs/windows/wmic/
     - link: /docs/windows/wmiexporter/
     - link: /docs/windows/wsl/
-- title: Wireless
+- title: wireless
   docs:
     - link: /docs/wireless/aruba/
