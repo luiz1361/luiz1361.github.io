@@ -6,4 +6,4 @@ for i in `ls -1 ../_docs/`;do
 	for j in `ls -1 ../_docs/$i`;do
 		echo "    - link: /docs/$i/$j/"
 	done
-done > docs_nav.yml
+done > ../_data/docs_nav.yml

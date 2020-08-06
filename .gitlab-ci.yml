@@ -10,11 +10,10 @@ cache:
 pages:
   stage: deploy
   script:
+    - apt-get update && apt-get install moreutils -y
     - gem install bundler
     - bundle install --path vendor
-    - apt-get update && apt-get install moreutils -y
-    - cd _docs && ./fixer.sh && git checkout index.md && cd ..
-    - cd _data && ./fixer.sh && cd ..
+    - cd scripts && ./docs.sh && ./docs_nav.sh && git checkout ../_docs/index.md && cd ..
     - bundle exec jekyll build -d public
   artifacts:
     paths:
